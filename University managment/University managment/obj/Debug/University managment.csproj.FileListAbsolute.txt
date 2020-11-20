@@ -1,0 +1,2 @@
+F:\AIUB\C# assigment\University managment\University managment\bin\Debug\University managment.exe.config
+F:\AIUB\C# assigment\University managment\University managment\obj\Debug\University managment.csprojResolveAssemblyReference.cache
